@@ -1,5 +1,5 @@
 *****************
-How to - Templating
+Starter kit
 *****************
 
 This guide will walk you through all of your options within the NGS Browser

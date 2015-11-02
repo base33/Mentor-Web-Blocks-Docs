@@ -1,5 +1,5 @@
 *****************
-NGS Browser Guide
+What is Web Blocks?
 *****************
 
 This guide will walk you through all of your options within the NGS Browser

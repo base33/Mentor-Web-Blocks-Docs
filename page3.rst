@@ -1,5 +1,5 @@
 *****************
-NGS Browser Guide
+How to - creating blocks
 *****************
 
 This guide will walk you through all of your options within the NGS Browser
