@@ -1,37 +1,24 @@
-.. markdown-guide documentation master file, created by
-   sphinx-quickstart on Wed Aug 15 10:20:33 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to markdown-guide's documentation!
+Welcome to Mentor Web Blocks documentation!
 ==========================================
+If you want to learn more about Web Blocks, you have come to the right place!  Mentor Web Blocks is extremely flexible that only requires you to know how Umbraco works.  If you know Umbraco, I think you will find working with Mentor Web Blocks a doddle.
 
-.. pull-quote::
 
-   Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing
-   people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally
-   valid XHTML (or HTML). 
-
-   Source: http://en.wikipedia.org/wiki/Markdown
-
-This is a syntax guide designed to provide very clear, understandable examples of Markdown usage. It borrows from several
-sources including:
-
-* http://en.wikipedia.org/wiki/Markdown
-* http://daringfireball.net/projects/markdown/
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
+# Contents
    
-   basics
+## [Overview](1.%20Getting%20Started)
+The basic concept of Web Blocks and an overview how Content Editors work with Web Blocks.
 
+## [Installation](2.%20Installation)
+How to install Web Blocks and the various settings that can be configured.
 
-Indices and tables
-==================
+## [Creating a Template](3.%20Creating%20a%20template)
+How to create HTML templates with containers where blocks can be dragged in.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+## [Creating a Block](4.%20Creating%20a%20block)
+How to create a block
 
+## [ Render a Custom Container ](5.%20Render%20a%20custom%20container)
+How to control the rendering of a Container on the front end
+
+## [Searching web blocks](6.%20Searching%20web%20blocks)
+How to search Web Blocks Wysiwygs in a web site search powered by Lucene
